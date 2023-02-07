@@ -1,0 +1,8 @@
+H:\Work\ReizTech\Branch\Branch\bin\Debug\Branch.exe.config
+H:\Work\ReizTech\Branch\Branch\bin\Debug\Branch.exe
+H:\Work\ReizTech\Branch\Branch\bin\Debug\Branch.pdb
+H:\Work\ReizTech\Branch\Branch\obj\Debug\Branch.csproj.AssemblyReference.cache
+H:\Work\ReizTech\Branch\Branch\obj\Debug\Branch.csproj.SuggestedBindingRedirects.cache
+H:\Work\ReizTech\Branch\Branch\obj\Debug\Branch.csproj.CoreCompileInputs.cache
+H:\Work\ReizTech\Branch\Branch\obj\Debug\Branch.exe
+H:\Work\ReizTech\Branch\Branch\obj\Debug\Branch.pdb
